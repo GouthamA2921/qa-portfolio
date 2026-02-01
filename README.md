@@ -1,2 +1,2 @@
-# qa-portfolio
-Central QA portfolio – manual, automation, SQL
+# Java Full Stack Developer
+Central Java, Spring Boot
